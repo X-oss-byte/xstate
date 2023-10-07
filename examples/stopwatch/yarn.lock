@@ -164,10 +164,10 @@ is-core-module@^2.9.0:
   dependencies:
     has "^1.0.3"
 
-nanoid@^3.3.4:
-  version "3.3.4"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"
-  integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
+nanoid@^3.3.6:
+  version "3.3.6"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
+  integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
 
 path-parse@^1.0.7:
   version "1.0.7"
@@ -180,11 +180,11 @@ picocolors@^1.0.0:
   integrity sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==
 
 postcss@^8.4.21:
-  version "8.4.21"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.21.tgz#c639b719a57efc3187b13a1d765675485f4134f4"
-  integrity sha512-tP7u/Sn/dVxK2NnruI4H9BG+x+Wxz6oeZ1cJ8P6G/PZY0IKk4k/63TDsQf2kQq3+qoJeLm2kIBUNlZe3zgb4Zg==
+  version "8.4.31"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.31.tgz#92b451050a9f914da6755af352bdc0192508656d"
+  integrity sha512-PS08Iboia9mts/2ygV3eLpY5ghnUcfLV/EXTOW1E2qYxJKGGBUtNjN76FYHnMs36RmARn41bC0AZmn+rR0OVpQ==
   dependencies:
-    nanoid "^3.3.4"
+    nanoid "^3.3.6"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
@@ -231,7 +231,7 @@ vite@^4.1.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-xstate@^4.37.0:
-  version "4.37.0"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.37.0.tgz#2f253ccbfc2dc6954ff975b8102714bde9751726"
-  integrity sha512-YC+JCerRclKS9ixQTuw8l3vs3iFqWzNzOGR0ID5XsSlieMXIV9nNPE43h9CGr7VdxA1QYhMwhCZA0EdpOd17Bg==
+xstate@5.0.0-beta.13:
+  version "5.0.0-beta.13"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-5.0.0-beta.13.tgz#66f89ad99ce499e10891b60647643fea60f98643"
+  integrity sha512-cv27Y9t6xJimBZ/FBFe6Vjegai/3Gv6INFQcdsiNGrFuXXjP7IMwjytOIxL6VhlDasXcoofWQoPy95v2d284ow==
